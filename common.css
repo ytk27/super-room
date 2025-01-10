@@ -1,0 +1,39 @@
+
+h2{
+    color: #000;
+    font-size: 22px;
+    line-height: 1.4;
+}
+
+.bg-gray-s1{background-color: #fafaf9;}
+.bg-gray-s2{background-color: #f3f3f3;}
+.mt100{ margin-top: 100px ;}
+
+
+
+.ex-1{
+    text-align: center;
+}
+.ex-1 > h2{
+    font-size: 68px;
+    padding: 180px 0 60px;
+}
+.ex-1 > b{
+    font-size: 35px;
+    padding-bottom: 60px;
+}
+.ex-1 > p{
+    font-size: 22px;
+    padding-bottom: 82px;
+}
+.ex-1 > h2 > b{}
+.ex-1 > h2 > b > p{}
+.ex-1 > div{
+    font-size: 17px;
+    text-align: end;
+    padding: 0 100px 60px;
+    font-weight: 600;
+    line-height: 28px;
+}
+.ex-1 > div > p{}
+
